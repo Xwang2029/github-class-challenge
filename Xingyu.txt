@@ -1,0 +1,5 @@
+Name: Xingyu
+Major: Data Science
+Hometown: China
+Fun fact: I love Delaware
+
